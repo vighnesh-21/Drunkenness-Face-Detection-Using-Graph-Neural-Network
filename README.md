@@ -4,6 +4,7 @@ Tipsy is a an android app, to detect intoxication in a person. This app is backe
 The requirements to execute this project are as below:
 
 1. Smartphone
+
 	. RAM: 512MB	
 
 	. Space: 500MB
