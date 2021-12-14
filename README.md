@@ -21,7 +21,7 @@ The requirements to execute this project are as below:
 
 3. Firebase
 
-Repository Contents -
+**Repository Contents -**
 
 **1.**  (Folder - Model)        This contains the saved trained model
 
@@ -32,3 +32,15 @@ Repository Contents -
 **4.**  (File   - App.ipynb )   This is python notebook that is to be runned on Google Colab , which acts as the server for our app.
 
 **5.**  (File   - Tipsy.apk )   This is the apk file of the android application Tipsy
+
+
+**STEPS**
+
+
+**1.**	Make sure all the repository contents are in the same directory
+
+**2.** Download the tipsy.apk and install in your smartphone
+
+**3.** Open App.ipynb and execute all the cells, the last cells runs continoulsy
+
+**4.** Open the app and send the image, the result will be displayed in the app shortly
