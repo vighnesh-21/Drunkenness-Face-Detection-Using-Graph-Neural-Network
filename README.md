@@ -5,11 +5,17 @@ The requirements to execute this project are as below:
 
 1. Smartphone
 	. RAM: 512MB	
+
 	. Space: 500MB
+
 	. Cache: 200KB
+
 	. Camera: 5MP+
+
 	. Android Version: 4.4+
+
 	. SDK : 26+
+
 2. Google Colab
 
 3. Firebase
