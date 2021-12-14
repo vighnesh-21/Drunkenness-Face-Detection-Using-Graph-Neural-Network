@@ -31,7 +31,6 @@ The requirements to execute this project are as below:
 
 **4.**  (File   - App.ipynb )   This is python notebook that is to be runned on Google Colab , which acts as the server for our app.
 
-**5.**  (File   - Tipsy.apk )   This is the apk file of the android application Tipsy
 
 
 **STEPS**
@@ -39,7 +38,7 @@ The requirements to execute this project are as below:
 
 **1.**	Make sure all the repository contents are in the same directory
 
-**2.** Download the tipsy.apk and install in your smartphone
+**2.** Download the tipsy.apk from https://tinyurl.com/tipsyapk and install in your smartphone
 
 **3.** Open App.ipynb and execute all the cells, the last cells runs continoulsy
 
